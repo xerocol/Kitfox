@@ -1,0 +1,14 @@
+{
+    "name": "xerocol/kitfox",
+    "description": "The Opensource CMS by Xerocol",
+    "type": "project",
+    "license": "BSD-3",
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
